@@ -1,4 +1,5 @@
 # WEB BASE V3
+![Screenshot 2025-02-13 105045](https://github.com/user-attachments/assets/4cc0340a-b52e-43ec-b923-a15e01bb6147)
 
 ## Web base v3 based on:
 
@@ -16,6 +17,7 @@ Install `node_modules`:
 ```bash
 yarn
 ```
+
 
 ## Provided Scripts
 
